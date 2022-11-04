@@ -1,0 +1,15 @@
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\bin\Debug\net6.0\JsonTesting.exe
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\bin\Debug\net6.0\JsonTesting.deps.json
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\bin\Debug\net6.0\JsonTesting.runtimeconfig.json
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\bin\Debug\net6.0\JsonTesting.dll
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\bin\Debug\net6.0\JsonTesting.pdb
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\obj\Debug\net6.0\JsonTesting.csproj.AssemblyReference.cache
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\obj\Debug\net6.0\JsonTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\obj\Debug\net6.0\JsonTesting.AssemblyInfoInputs.cache
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\obj\Debug\net6.0\JsonTesting.AssemblyInfo.cs
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\obj\Debug\net6.0\JsonTesting.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\obj\Debug\net6.0\JsonTesting.dll
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\obj\Debug\net6.0\refint\JsonTesting.dll
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\obj\Debug\net6.0\JsonTesting.pdb
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\obj\Debug\net6.0\JsonTesting.genruntimeconfig.cache
+C:\Users\Asus\source\TokenAndClaims\3.11.2022\JsonTesting\obj\Debug\net6.0\ref\JsonTesting.dll

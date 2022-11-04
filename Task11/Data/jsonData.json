@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 0,
+    "Login": "string",
+    "Password": "string",
+    "Key": "f94d625e-75ca-42b8-8256-6f54e4c2a341",
+    "Role": 0
+  },
+  {
+    "Id": 0,
+    "Login": "string",
+    "Password": "string",
+    "Key": "a37fd91d-caf1-4f89-bd70-c73fffed5560",
+    "Role": 0
+  }
+]
