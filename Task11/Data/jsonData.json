@@ -1,16 +1,1 @@
-[
-  {
-    "Id": 0,
-    "Login": "string",
-    "Password": "string",
-    "Key": "f94d625e-75ca-42b8-8256-6f54e4c2a341",
-    "Role": 0
-  },
-  {
-    "Id": 0,
-    "Login": "string",
-    "Password": "string",
-    "Key": "a37fd91d-caf1-4f89-bd70-c73fffed5560",
-    "Role": 0
-  }
-]
+[{"Id":0,"Login":"stringeeeeee","Password":"string","Key":"8a430f13-2c85-4a02-9297-9d923dd8f2af","Role":0},{"Id":0,"Login":"stringeeeeeewwww","Password":"string","Key":"edbdf28b-ecd8-4f89-8f62-0b9484de2c3d","Role":0},{"Id":0,"Login":"Leverow","Password":"123321","Key":"b8390946-45ab-485f-8aa7-dc8f298453e2","Role":0}]

@@ -94,8 +94,10 @@ public class UserService : IUserService
         var directory = Directory.GetCurrentDirectory();
         var path = Path.Combine(directory, "Data", _options.Value.JsonDataPath ?? String.Empty);
         CheckAndCreateDatabase();
-        var usersList = ReadUsersFromJson();
-        usersList.Add(user);
+        var userList = ReadUsersFromJson();
+        userList.Add(user);
+        var json = JsonConvert.SerializeObject(userList);
+        File.WriteAllText(path, json);
         return true;
     }
 
@@ -111,7 +113,10 @@ public class UserService : IUserService
         var path = Path.Combine(Directory.GetCurrentDirectory(), "Data", _options.Value.JsonDataPath ?? String.Empty);
 
         if(!System.IO.File.Exists(path))
+        {
+            CheckAndCreateDatabase();
             return new List<AppUser>();
+        }    
 
         var json = System.IO.File.ReadAllText(path);
 
