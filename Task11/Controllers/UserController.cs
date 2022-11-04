@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Net.Http.Headers;
 using Task11.Dtos;
 using Task11.Services;
 
@@ -39,7 +40,7 @@ public class UserController : ControllerBase
 
         if (existingUser.Password != dtoModel.Password) return BadRequest("Password is invalid");
 
-        Response.Headers.Add("Key", existingUser.Key.ToString());
+        Response.Headers.Add(HeaderNames.Authorization, existingUser.Key.ToString());
 
         return Ok("Login successfully completed.");
     }

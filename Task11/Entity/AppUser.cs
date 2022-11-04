@@ -7,4 +7,5 @@ public class AppUser
     public string Password { get; set; }
     public string Key { get; set; }
     public ERole Role { get; set; }
+    public object Email { get; internal set; }
 }

@@ -6,7 +6,7 @@ namespace Task11.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-[TypeFilter(typeof(AuthAttribute))]
+[Role("Administrator")]
 public class CalculateController : ControllerBase
 {
     [HttpPost]

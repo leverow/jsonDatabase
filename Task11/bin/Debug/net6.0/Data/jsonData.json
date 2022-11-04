@@ -1,1 +1,1 @@
-System.Collections.Generic.List`1[Task11.Entity.AppUser]
+[{"Id":0,"Login":"stringeeeeee","Password":"string","Key":"8a430f13-2c85-4a02-9297-9d923dd8f2af","Role":0,"Email":null},{"Id":0,"Login":"stringeeeeeewwww","Password":"string","Key":"edbdf28b-ecd8-4f89-8f62-0b9484de2c3d","Role":0,"Email":null},{"Id":0,"Login":"Leverow","Password":"123321","Key":"b8390946-45ab-485f-8aa7-dc8f298453e2","Role":3,"Email":null},{"Id":0,"Login":"Admin","Password":"Admin","Key":"838b4859-d91b-47cc-b2ce-7d0ef3d538ea","Role":2,"Email":null}]
